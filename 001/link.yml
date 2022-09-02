@@ -1,0 +1,217 @@
+- class_name: 渡劫
+  class_desc: 文章数不少于120
+  link_list:
+    - name: 团团生活志 # 名称
+      link: https://t-t.live/ # 链接
+      avatar: https://t-t.live/images/tx.png # 头像
+      descr: 爱生活 爱分享
+    - name: 云遇未晚 # 名称
+      link: http://blog.tryrun.top/ # 链接
+      avatar: https://q1.qlogo.cn/g?b=qq&nk=2071916845&s=640  # 头像
+      descr: 集大家之所长，补其吾所短。
+    - name: 张洪Heo  # 名称
+      link: https://blog.zhheo.com/ # 链接
+      avatar: https://npm.elemecdn.com/guli-heo/img/avatar2.png  # 头像
+      descr: 分享设计与科技生活
+    - name: 沙漠渔溏  # 名称
+      link: https://www.sammery.com/ # 链接
+      avatar: https://www.sammery.com/logo  # 头像
+      descr: 把過去的累積，善用到當下
+      siteshot: https://cos.gjcloak.xyz/blog/link-siteshot/%E6%B2%99%E6%BC%A0.png?imageMogr2/format/webp/interlace/1/quality/80
+- class_name: 大乘
+  class_desc: 文章数不少于80
+  link_list:
+    - name: 黑桃三 # 名称
+      link: https://heitaosan.com/ # 链接
+      avatar: https://cravatar.cn/avatar/afcb21221b3785f83e89cb3c63ed4020 # 头像
+      descr: 有梦想的人，永远年轻
+    - name: 懿曲折扇情 # 名称
+      link: http://www.gaojs.com.cn/ # 链接
+      avatar: https://www.gaojs.com.cn/upload/2022/04/image-1650516317791.png # 头像
+      descr: 🤞😚🐱‍👤一枚热爱分享技术和生活的博主。
+    - name: 小胖猪 # 名称
+      link: https://www.zmx.ink/ # 链接
+      avatar: https://s1.ax1x.com/2022/04/18/LdyDiQ.png  # 头像
+      descr: 小胖猪-分享小胖猪,游戏攻略,趣闻杂谈,软件分享,技术教程,摄影图片,旅游攻略,购物优惠
+      siteshot: https://cos.gjcloak.xyz/blog/link-siteshot/%E5%B0%8F%E8%83%96%E7%8C%AA.png?imageMogr2/format/webp/interlace/1/quality/80
+- class_name: 合体
+  class_desc: 文章数不少于70
+  link_list:
+    - name: 松鼠ノ快乐小窝
+      link: https://www.cssbe.com/
+      avatar: https://cravatar.cn/avatar/a23613e059409534ace4eaa8bc9c8bf6
+      descr: 做一只快乐的松鼠，筑一间快乐的小窝
+    - name: 澄沨的漫游茶记 # 名称
+      link: https://champhoon.xyz/ # 链接
+      avatar: https://api.champhoon.xyz/favicon/favicon-main.png # 头像
+      descr: Stay hungry, Stay foolish.
+    - name: 小鹿生活志 # 名称
+      link: https://www.t223.top/ # 链接
+      avatar: https://t1.pic.cdn.lkxin.cn/2022/06/01/6296f95f14a4c.png # 头像
+      descr: 一个写故事的博客！
+    - name: 华岁云Blog  # 名称
+      link: https://halo.52n.cc/ # 链接
+      avatar: https://halo.52n.cc/logo  # 头像
+      descr: 华岁云小站~
+    - name: 啊不都  # 名称
+      link: https://www.oplog.cn/ # 链接
+      avatar: https://img.gejiba.com/images/974289a89a3b138efc3cd807599b0230.png  # 头像
+      descr: 
+- class_name: 炼虚
+  class_desc: 文章数不少于60
+  link_list:
+    - name: 崽崽 # 名称
+      link: https://xll.cc/ # 链接
+      avatar: https://xll.cc/wj/photo/tx.jpg # 头像
+      descr: 一个可爱崽
+#- class_name: 化神
+#  class_desc: 文章数不少于50
+#  link_list:
+- class_name: 元婴
+  class_desc: 文章数不少于40
+  link_list:
+    - name: NoTomorrow Club  # 名称
+      link: https://blog.notomorrow.club/ # 链接
+      avatar: https://blog.notomorrow.club/img/ed.jpg  # 头像
+      descr: 簡單的個人博客，記錄一些感想
+    - name: LYMTICS  # 名称
+      link: https://lymtics.top/ # 链接
+      avatar: https://lymtics.top/avatar  # 头像
+      descr: 卷起来！
+    - name: space of Lee  # 名称
+      link: https://blog.lyt11.cn/ # 链接
+      avatar: https://blog.lyt11.cn/imgs/wangye.jpg  # 头像
+      descr: 愿以吾辈之青春,护卫这盛世之中华
+- class_name: 金丹
+  class_desc: 文章数不少于30
+  link_list:
+    - name: I'm小狐仙 # 名称
+      link: https://huxianbk.cn/ # 链接
+      avatar: https://cos.gjcloak.xyz/pigo/202207152243598.jpeg?imageMogr2/format/webp/interlace/1/quality/80 # 头像
+      descr: 喜欢一个人的感觉就是你不管在干什么心里都在想着他
+      siteshot: https://cos.gjcloak.xyz/pigo/202208181810965.png?imageMogr2/format/webp/interlace/1/quality/80
+    - name: Rookieo 的博客 # 名称
+      link: https://blog.rookieo.com/ # 链接
+      avatar: https://cos.rookieo.com/img/bg-desktop-01.jpg?imageView2/2/w/640/q/75  # 头像
+      descr: 知菜鸟之所想，撰菜鸟之所需
+      siteshot: https://cos.gjcloak.xyz/blog/link-siteshot/%E4%B8%8D%E7%9F%A5%E6%99%9A.png?imageMogr2/format/webp/interlace/1/quality/80
+    - name: 清风云Blog  # 名称
+      link: https://breezecloud.cn/ # 链接
+      avatar: https://breezecloud.cn/logo  # 头像
+      descr: 一个摸鱼博主的私塾
+    - name: Langford's blog  # 名称
+      link: https://ucany.net/ # 链接
+      avatar: https://ucany.net/img/avatar-a.jpg  # 头像
+      descr: 在努力之前就放弃，那就是懒惰！
+    - name: 兔子家的一朵花  # 名称
+      link: https://blog.sxs.icu/ # 链接
+      avatar: https://api.sxs.icu/static/halo/hand.png  # 头像
+      descr: 练习时长半年的bug发明家
+      siteshot: https://cos.gjcloak.xyz/blog/link-siteshot/%E5%B0%8F%E8%8A%B1.png?imageMogr2/format/webp/interlace/1/quality/80
+- class_name: 筑基
+  class_desc: 文章数不少于20
+  link_list:
+    - name: Xhofe's Blog # 名称
+      link: https://nn.ci/ # 链接
+      avatar: https://nn.ci/images/avatar.png # 头像
+      descr: 晚来天欲雪，能饮一杯无？
+    - name: 肥猪qwq # 名称
+      link: https://www.feizhuqwq.com/ # 链接
+      avatar: https://ae05.alicdn.com/kf/Hafb3ff95b57e4d21941095a4306797635.png # 头像
+      descr: 一定是最可爱的猪猪！
+      siteshot: https://cos.gjcloak.xyz/blog/link-siteshot/%E8%82%A5%E7%8C%AA.png?imageMogr2/format/webp/interlace/1/quality/80
+    - name: 微若蜉蝣 # 名称
+      link: https://fuyouplus.cn/ # 链接
+      avatar: https://q2.qlogo.cn/headimg_dl?spec=100&dst_uin=2383155523 # 头像
+      descr: 芸芸众生，皆为蜉蝣
+    - name: luoxx的博客 # 名称
+      link: https://www.luoxx.top/ # 链接
+      avatar: https://www.luoxx.top/upload/2022/02/2-ef49194aaa9e4e87820bc2aa30ae4526.jpg # 头像
+      descr: 只要思想不滑坡，办法总比困难多
+    - name: 梦中小城 # 名称
+      link: https://www.llh1347.com/ # 链接
+      avatar: https://www.llh1347.com/upload/2022/03/F50B887C-EC37-4AA4-B33D-3D3DF8D6A23D-113f412bd9f94a209c460b9288a441c0.jpeg # 头像
+      descr: 你不会找到路，除非你敢于迷路。
+    - name: ZhaoQuinn ‘s Blog  # 名称
+      link: https://zhaoq.me/ # 链接
+      avatar: https://zhaoq-blog-cdn.linkshan.cn/usr/uploads/2020/03/2395074381.jpg  # 头像
+      descr: 热爱科技，热爱生活.
+    - name: 包子叔ノ日常 - 创造属于自己的记忆  # 名称
+      link: https://177157.xyz/ # 链接
+      avatar: https://175753.xyz/i/2022/05/logola.png  # 头像
+      descr: 包子叔ノ日常,续写记忆中的点点滴滴,留下互联网足迹
+- class_name: 炼气
+  class_desc: 文章数不少于10
+  link_list:
+    - name: 易雾山庄
+      link: https://www.evling.tech/
+      avatar: https://www.evling.tech/logo
+      descr: 家庭基建，生活乐享
+    - name: 束花柳 – 花香若云 # 名称
+      link: https://blog.rmoe.top/ # 链接
+      avatar: https://blog.rmoe.top/wp-content/uploads/2022/02/touxiang-1-1.jpg # 头像
+      descr: 嫩草地上的一朵玄都花
+    - name: 好运阿柒 # 名称
+      link: http://xianyu7z.cn/SevenBlog/ # 链接
+      avatar: https://cos.gjcloak.xyz/pigo/202207152321616.jpeg?imageMogr2/format/webp/interlace/1/quality/80  # 头像
+      descr: 晚来天欲雪，能饮一杯无？
+    - name: 弎昧  # 名称
+      link: https://sanmei.org.cn/ # 链接
+      avatar: https://sanmei.org.cn/logo  # 头像
+      descr: 一个经常偷懒的测试开发工程师，努力做一个勤快的CV搬运工~
+    - name: 小莫唐尼  # 名称
+      link: https://b.925i.cn/ # 链接
+      avatar: https://b.925i.cn/logo  # 头像
+      descr: 本博客是一个分享收集及原创模板插件、精品资源、记录生活点滴的博客网站
+    - name: 青旨&客栈   # 名称
+      link: http://blog.sayqz.com/ # 链接
+      avatar: https://pic.cdn.uupr.cn/pic/20222203/4C7komiDJ2.png  # 头像
+      descr: 凡是过往，皆成序章
+      siteshot: https://cos.gjcloak.xyz/blog/link-siteshot/%E5%AE%A2%E6%A0%88.png?imageMogr2/format/webp/interlace/1/quality/80
+    - name: Redish101 Blog  # 名称
+      link: https://blog.redish101.top/ # 链接
+      avatar: https://blog.redish101.top/favicon.ico  # 头像
+      descr: Redish101的小站
+    - name: BowenYoungの破站  # 名称
+      link: https://bowenyoung.cn/ # 链接
+      avatar: https://bowenyoung.cn/img/avatar.png  # 头像
+      descr: 总之岁月漫长，然而值得等待
+    - name: BowenYoungの破站  # 名称
+      link: https://bowenyoung.cn/ # 链接
+      avatar: https://bowenyoung.cn/img/avatar.png  # 头像
+      descr: 总之岁月漫长，然而值得等待
+    - name: Mlikiowa Home Village
+      link: https://nanaeo.cn/
+      avatar: https://q1.qlogo.cn/g?b=qq&nk=1627126029&s=100
+      descr: A litter Village With Mlikiowa
+      siteshot: https://cos.gjcloak.xyz/pigo/202208161117354.png?imageMogr2/format/webp/interlace/1/quality/80
+    - name: 小志IT知识库
+      link: https://www.czfq99.cn/
+      avatar: https://www.czfq99.cn/upload/2022/08/12.jpg
+      descr: 一个专注于安全领域的全栈博客
+      siteshot: https://cos.gjcloak.xyz/pigo/202208181002207.png?imageMogr2/format/webp/interlace/1/quality/80
+    - name: Mr_G’ blog
+      link: https://www.mrgblog.top/
+      avatar: https://www.mrgblog.top/upload/2022/08/touxiang.jpg
+      descr: 昨夜星辰已逝 满眼青山已远
+      siteshot: https://cos.gjcloak.xyz/pigo/202208231056457.png?imageMogr2/format/webp/interlace/1/quality/80
+    - name: 心流
+      link: https://blog.panghai.top
+      avatar: https://blog.panghai.top/img/avatar.png
+      descr: 保持谨慎，保持乐观
+    - name: 小杰知识库
+      link: https://itshuang.cn
+      avatar: https://itshuang.cn/upload/2022/08/WechatIMG502.jpeg
+      descr: 一个专注于后端开发的知识博主
+    - name: 柠檬zz7
+      link: https://www.codeui.top
+      avatar: https://www.codeui.top/file/halo/upload/22083101.jpg!webp
+      descr: 交个朋友吧
+- class_name: 闭关
+  class_desc: 无法访问
+  link_list:
+    - name: 落星屋  # 名称
+      link: https://www.cnortles.top/ # 链接
+      avatar: https://source.cnortles.top/avatar.png  # 头像
+      descr: 科学是使人的精神变得勇敢的最好途径
+      siteshot: https://cos.gjcloak.xyz/pigo/202208021642046.png?imageMogr2/format/webp/interlace/1/quality/80
